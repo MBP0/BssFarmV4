@@ -33,7 +33,6 @@ s.SoundId = 9125712561
 
 local function load()
 	local script = Instance.new('LocalScript', Farm)
-	--loadstring.load("https://github/raw/824u87euhew")
 	local farm = script.Parent
 	local s = Instance.new("Sound")
 	s.SoundId = "rbxassetid://9125712561"
